@@ -1,0 +1,53 @@
+[
+    {
+        "idMenu": 1,
+        "idKategori": 1,
+        "menu": "Apel Manalagi",
+        "harga": 10000,
+        "warna": [
+            "merah",
+            "kuning",
+            "hijau"
+        ],
+        "stok": true,
+        "ket": null
+    },
+    {
+        "idMenu": 2,
+        "idKategori": 1,
+        "menu": "Pisang Raja",
+        "harga": 13000,
+        "warna": [
+            "merah",
+            "kuning"
+        ],
+        "stok": false,
+        "ket": null
+    },
+    {
+        "idMenu": 3,
+        "idKategori": 2,
+        "menu": "Masi Padang",
+        "harga": 12000,
+        "warna": [
+            "merah",
+            "kuning"
+        ],
+        "stok": false,
+        "ket": null
+    },
+    {
+        "idMenu": 4,
+        "idKategori": 2,
+        "menu": "Nasi Ayam",
+        "harga": 16000,
+        "warna": [
+            "merah",
+            "kuning"
+        ],
+        "stok": false,
+        "ket": null
+    }
+
+]
+
